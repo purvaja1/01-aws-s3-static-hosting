@@ -10,7 +10,7 @@ and served globally via CloudFront CDN with HTTPS.
 - AWS IAM — bucket policy for public access control
 
 ##  Live URL
-https://your-cloudfront-url.cloudfront.net
+(https://ddoaohlnh5h4s.cloudfront.net/)
 
 ##  Architecture
 Browser → CloudFront (HTTPS) → S3 Bucket (HTML/CSS/JS)
